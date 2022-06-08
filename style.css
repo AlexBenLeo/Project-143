@@ -1,0 +1,14 @@
+body
+{
+    text-align: center;
+}
+h4{
+    color:blue;
+    line-height:2;
+margin:0px;
+}
+canvas{
+    border:5px solid grey;
+    border: radius 20px;
+    box-shadow:5px 5px 5px red;
+}
